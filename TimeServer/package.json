@@ -1,0 +1,24 @@
+{
+  "name": "time-express",
+  "version": "0.0.1",
+  "description": "a node.js server for express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/tigoe-time-client"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Tom Igoe",
+  "license": "ISC"
+}
